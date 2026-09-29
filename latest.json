@@ -1,0 +1,11 @@
+{
+  "version": "0.2.3",
+  "notes": "Sidetable now updates itself: a new version installs between sessions, never during one.\nTournaments by day, with or without PokerCraft: buy-in, time played, hands and last blinds.\nA stream element for OBS that shows counts only: no names, tables or money.\nClearer Settings and Report, and net per hour for fully linked sessions.\nFixes from real sessions: a table that moves windows stays one table; PokerCraft times read in your zone.",
+  "pub_date": "2026-09-29T12:11:16Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUTBBaHV2dk5oQjhtN0I1TnBqWXNaemttakNORElVTDIva21FRkM3YUo2NE5rQnpMYlRHRDBLQUZHb2tFQWdhU1Z2UUtzQVNHOXNFUVBBTmNZcTM3cUtjTm1qMXlDMVE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNjgzNzQ1CWZpbGU6U2lkZXRhYmxlXzAuMi4zX3g2NC1zZXR1cC5leGUKUHpENFFieTI5a0dTM2VkQU9HSzdIWXBQZktZK2Y2cW1CMVFOdzVlT2JMdFk3UjBoQ016MHdJMGZ0OUFtUXgrTldySXA5Wmp1NXd3cGV4TCtFWWcyQ0E9PQo=",
+      "url": "https://github.com/dyamin/sidetable-releases/releases/download/v0.2.3-beta.1/Sidetable_0.2.3_x64-setup.exe"
+    }
+  }
+}
